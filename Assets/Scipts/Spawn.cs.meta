@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d4d2cf8b7828874388cc4756e0548be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - caixote: {fileID: 4968271271665800753, guid: d4514e34ed75e3d498b243afed86114c,
+      type: 3}
+  - moeda: {fileID: 4768741301155766733, guid: 572e9078569d9e04e9859e9438cad0bc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
